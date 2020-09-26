@@ -87,7 +87,7 @@ li{
 .maxbox li:nth-child(2){
 	background: url(../img/2.jpg) no-repeat 0 0;
 	background-size: 100% 100%;
-	-webkit-transform:translateZ(50px);
+	-webkit-transform:rotateY(-180deg) translateZ(50px);
 }
 .maxbox li:nth-child(3){
 	background: url(../img/3.jpg) no-repeat 0 0;
